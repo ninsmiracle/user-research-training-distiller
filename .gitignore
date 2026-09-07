@@ -1,0 +1,19 @@
+# Source media and internal course material
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.srt
+*.vtt
+raw/
+input/
+assets/
+exports/
+outputs/
+
+# Local environment files
+.DS_Store
+.env
+.env.*
